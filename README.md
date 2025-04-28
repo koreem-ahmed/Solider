@@ -8,4 +8,4 @@ This is a PCB in shape of a creeper face from mine craft which I will put on a g
 ![image](https://github.com/user-attachments/assets/ddd47be9-8359-4a82-98b1-f11c8f87dff9)
 # The bill of the PCB components
 ![image](https://github.com/user-attachments/assets/44378e5b-b905-4230-88ba-53082650eb56)
-# my slack name : Kareem Ahmad
+# my slack name : Karim Ahmad
