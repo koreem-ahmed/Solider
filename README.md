@@ -1,11 +1,14 @@
 # Solder
 This is a PCB in shape of a creeper face from mine craft which I will put on a green background to make a glowing face of the creeper I worked so hard to do it so thanks to Hack club to make such an opportunity. 
 # This is the 3D design
-![image](https://github.com/user-attachments/assets/692a5211-09c5-482e-82d1-5dfcb4aa628e)
+![image](https://github.com/user-attachments/assets/3c628639-2c14-4b07-9c1b-24537c6f2e9b)
+
 # The schematic
-![image](https://github.com/user-attachments/assets/5276979a-98d1-465d-93f5-48f020ab465f)
+![image](https://github.com/user-attachments/assets/ac5a0ba9-fa8f-4c8d-bd7e-ef1b2e7f3432)
+
 # The PBC footprint
-![image](https://github.com/user-attachments/assets/ddd47be9-8359-4a82-98b1-f11c8f87dff9)
+![image](https://github.com/user-attachments/assets/80e12cdd-7cb1-46c9-aff2-e82bfa5f5a51)
+
 # The bill of the PCB components
 ![image](https://github.com/user-attachments/assets/23c070ba-d4ee-4b87-b58c-3963b77dc825)
 # my slack name : Karim Ahmad
