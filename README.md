@@ -1,5 +1,5 @@
 # Solder
-This is a PCB in shape of a creeper face from mine craft which I will put on a green background to make a glowing face of the creeper I worked so hard to do it so thanks to Hack club to make such an opportunity. 
+This is a PCB in shape of a creeper face from minecraft which I will put on a green background to make a glowing face of the creeper. This is a simple one to make a decoration for my room. I worked so hard to do it so thanks to Hack club to make such an opportunity.
 # This is the 3D design
 <img width="394" alt="Screenshot 2025-04-30 205353" src="https://github.com/user-attachments/assets/e9517d70-c91d-4a17-aec7-2ccc645dafcd" />
 
